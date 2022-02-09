@@ -13,3 +13,6 @@
  ```
 # How DNS works!
 [vist this website](https://howdns.works/ep1/)
+
+## Apache server
+[link](https://github.com/b-khan7276/Recon-Bugbunties/blob/main/02_apache2.md)
