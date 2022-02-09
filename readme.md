@@ -11,4 +11,5 @@
  see throught the  master,
  become the master,"
  ```
- 
+# How DNS works!
+[vist this website](https://howdns.works/ep1/)
