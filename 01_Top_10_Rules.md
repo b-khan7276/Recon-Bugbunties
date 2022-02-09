@@ -1,0 +1,11 @@
+# Top 10 rules
+- Choose the right  bug bunty program
+- Recon, Dont DDoS with the active scans/ACutomated Scans
+- Don't expect Rewards
+- Develop your flow of approch Methodology
+-  Surround yourself with Bug Bonty Community
+-  Automate everything 
+-  Make your own checklist
+-  when you find a bug,chain it.
+-  increase the severity, impact matters!
+-  Mental health is important, take breaks 
